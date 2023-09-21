@@ -9,6 +9,7 @@
 
 body {
     background: lightblue;
+    position: relative;
 }
 
 img {
@@ -51,7 +52,14 @@ main {
     font-weight: 400;
 }
 
-
+footer {
+    width: 100vw;
+    background: white;
+    padding: .5rem 0;
+    position: fixed;
+    bottom: 0;
+    font-weight: bold;
+}
 
 @media screen and (max-width: 768px) {
 
