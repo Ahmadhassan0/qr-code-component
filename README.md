@@ -1,3 +1,3 @@
 # Frontend Mentor - QR code component
 
-[](./design/final-result.png)
+![](./design/final-result.png)
