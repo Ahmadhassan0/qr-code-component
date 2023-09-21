@@ -51,6 +51,14 @@ main {
     font-weight: 400;
 }
 
+@media screen and (max-width: 768px) {
+
+    main {
+        width: 40%;
+    }
+    
+}
+
 @media screen and (max-width: 480px) {
 
     main {
